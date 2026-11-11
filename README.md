@@ -3,6 +3,8 @@
 ## Summary
 A course activity where I investigated a malicious file hash in VirusTotal, decided whether the file was malicious, and mapped the indicators of compromise (IoCs) I found onto the Pyramid of Pain.
 
+> Part of my [Incident Response Journal](https://github.com/john-danko-cyber/incident-response-journal) (Entry 4), which collects all my Detection and Response course labs.
+
 ## My Role
 I ran the hash lookup in VirusTotal, reviewed the Detection, Details, Relations, and Behavior tabs, picked the indicators, and filled in the Pyramid of Pain template. The screenshots in this repo are from my own lookup. The hash and scenario were provided by the course.
 
